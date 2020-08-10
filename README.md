@@ -10,13 +10,13 @@ In this course, we will explore the core design of AngularJS 1.x (latest version
 
 - [Introduction to AngularJS](#introduction-to-angularjs)
 
-- [Module 2 - Filters, Digest Cycle, Controller Inheritance, and Custom Services](#module-2---filters,-digest-cycle,-controller-inheritance,-and-custom-services)
+- [Module 2 - Filters, Digest Cycle, Controller Inheritance, and Custom Services](#module-2-filters-digest-cycle-controller-inheritance-and-custom-services)
 
-- [Week 3 - Promises, Ajax, and Custom Directives](week-3---promises,-ajax,-and-custom-directives)
+- [Week 3 - Promises, Ajax, and Custom Directives](week-3-promises-ajax-and-custom-directives)
 
-- [Module 4 - Components, Events, Modules, and Routing](module-4---components,-events,-modules,-and-routing)
+- [Module 4 - Components, Events, Modules, and Routing](module-4-components-events-modules-and-routing)
 
-- [Module 5 - Form Validation, Testing, and Restaurant Site Development](#module-5---form-validation,-testing,-and-restaurant-site-development)
+- [Module 5 - Form Validation, Testing, and Restaurant Site Development](#module-5-form-validation-testing-and-restaurant-site-development)
 
 ### Introduction to AngularJS
 
